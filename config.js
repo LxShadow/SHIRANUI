@@ -44,12 +44,12 @@ global.titulowm2 = `𝑺𝑯𝑰𝑹𝑨𝑵𝑼𝑰 𝑩𝑶𝑻`
 global.igfg = '𝑺𝑯𝑰𝑹𝑨𝑵𝑼𝑰 𝑩𝑶𝑻';
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
-global.imagen1 = fs.readFileSync('./allmenu.png');
-global.imagen2 = fs.readFileSync('./src/newavatar.png');
-global.imagen3 = fs.readFileSync('./src/newavatar.png');
-global.imagen4 = fs.readFileSync('./allmenu.png');
-global.imagen5 = fs.readFileSync('./src/newavatar.png');
-global.imagen6 = fs.readFileSync('./allmenu.png');
+global.imagen1 = fs.readFileSync('./shramenu.png');
+global.imagen2 = fs.readFileSync('./src/shirava.png');
+global.imagen3 = fs.readFileSync('./src/shirava.png');
+global.imagen4 = fs.readFileSync('./shiramenu.png');
+global.imagen5 = fs.readFileSync('./src/shirava.png');
+global.imagen6 = fs.readFileSync('./shiramenu.png');
 
 global.mods = [];
 

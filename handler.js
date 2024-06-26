@@ -1547,7 +1547,7 @@ global.dfail = (type, m, conn) => {
     private: '* [ ❗ ] Este comando solo puede ser utilizado en el chat privado del Bot.*',
     admin: '* [ ❗ ] Este comando solo puede ser usado por admins del grupo.*',
     botAdmin: '* [ ❗ ] Para poder usar este comando es necesario que yo sea admin.*',
-    unreg: '* 🛑 Hey!! Alto, no estas registrado  *\n\n* Para poder usar este comando debes registrarte, usa el comando:*\n*➣ #verificar nombre.edad*',
+    unreg: '* 🛑 Hey!! Alto, no estas registrado 🛑*\n\n* Para poder usar este comando debes registrarte, usa el comando:*\n*➣ #verificar nombre.edad*',
     restrict: '* [ ❗ ] Este comando esta restringido/desactivado por desición del propietario(a) (owner) del Bot.*',
   }[type];
   const aa = {quoted: m, userJid: conn.user.jid};
